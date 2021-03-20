@@ -5,7 +5,15 @@
     <item
         android:id="@+id/miLogo"
         android:icon="@drawable/icon"
-        app:showAsAction="always"
+        app:showAsAction="ifRoom"
         android:title="@string/app_name">
     </item>
+
+    <item
+        android:id="@+id/miPlus"
+        android:icon="@drawable/instagram_new_post_outline_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/new_post">
+    </item>
+
 </menu>

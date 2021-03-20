@@ -6,4 +6,8 @@
     <string name="postDescription">Description</string>
     <string name="take_picture">Take Picture</string>
     <string name="submit">Submit</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="new_post">New post</string>
+    <string name="user">User</string>
+    <string name="logout">LOGOUT</string>
 </resources>

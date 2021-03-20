@@ -18,6 +18,12 @@
         <item name="android:background">@drawable/nav_logo_whiteout</item>
         <item name="android:textColorPrimary">@color/white</item>
         <item name="displayOptions">useLogo</item>
-        <item name="icon">@drawable/icon</item>
+        <item name="icon">@drawable/ufi_heart</item>
+    </style>
+    <style name="bottombarTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:background">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="displayOptions">showCustom</item>
+        <item name="icon">@drawable/instagram_home_outline_24</item>
     </style>
 </resources>

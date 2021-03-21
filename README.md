@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/android_university/2bR4C12u.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university/6RNIqp2y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGIF]).
 
@@ -36,7 +36,8 @@ GIF created with [ScreenToGIF]).
 
 Began with stretch features because I couldn't stand the way the bare-bones app looked. 
 This means that I ran out of time to get user sign-up working. I had difficulty getting the two toolbars to display diffently.
-I wanted to have logout on a separate screen selected by the user button on the bottom toolbar, but I couldn't get that button working.
+I wanted to have logout on a separate screen selected by the user button on the bottom toolbar, but I couldn't get that button working. This feature
+will be included, along with user sign-up, in next week's submission
 
 ## Open-source libraries used
 

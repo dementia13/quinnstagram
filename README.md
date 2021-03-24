@@ -41,14 +41,14 @@ will be included, along with user sign-up, in next week's submission
 
 # Quinnstagram, part 2
 
-Time spent: **9** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ ] User can view the last 20 posts submitted to "Instagram".
-- [ ] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [X] User can view the last 20 posts submitted to "Instagram".
+- [X] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
 - [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:

@@ -41,7 +41,7 @@ will be included, along with user sign-up, in next week's submission
 
 # Quinnstagram, part 2
 
-Time spent: **10** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -49,7 +49,7 @@ The following **required** functionality is completed:
 
 - [X] User can view the last 20 posts submitted to "Instagram".
 - [X] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
+- [I] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -74,16 +74,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university/jOGyVHYS.gif' title='demo6.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-- Trouble implementing signup because I was sending the password where the email belonged. Typo
+- Trouble implementing signup because I was sending the password in the field where the email belonged. Typo
 - Placed the "logout" button on the user profile fragment, and had trouble implementing navigation from the fragment back to the login activity
-- A lot of trouble with buttons sliding around the bottom navigation bar and going invisible
+- A lot of trouble with buttons sliding around the bottom navigation bar and going invisible. Spent a lot of time trying to figure this out and never got an answer
+- Profile fragment was crashing the app because I extended from PostsFragment. The call to Super was breaking it
 
 ## Open-source libraries used
 
